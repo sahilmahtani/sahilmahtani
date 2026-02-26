@@ -28,7 +28,6 @@
 
 - Learning **vibe coding** — Coming up with cool ideas and seeing if I can turn them into a reality
 - Shipping things before they're perfect
-- Winging it 
 
 ---
 
